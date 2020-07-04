@@ -1,13 +1,11 @@
 {
-  "addresses": [
-    {
-      "paymentNetwork": "XRPL",
-      "environment": "MAINNET",
-      "addressDetailsType": "CryptoAddressDetails",
-      "addressDetails": {
-        "address": "rDSL6afPE2iqwfUpZt9bDCPc6Cb79K3EfZ"
-      }
-    }
-  ],
-  "payId": "rico$chilango.id"
+	"payId": "rico$chilango.id",
+	"addresses": [{
+		"paymentNetwork": "XRPL",
+		"environment": "MAINNET",
+		"addressDetailsType": "CryptoAddressDetails",
+		"addressDetails": {
+			"address": "rDSL6afPE2iqwfUpZt9bDCPc6Cb79K3EfZ"
+		}
+	}]
 }
