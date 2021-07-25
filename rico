@@ -2,10 +2,10 @@
 	"payId": "rico$chilango.id",
 	"addresses": [{
 		"paymentNetwork": "XRPL",
-		"environment": "TESTNET",
+		"environment": "MAINNET",
 		"addressDetailsType": "CryptoAddressDetails",
 		"addressDetails": {
-			"address": "rPAoa3FCUYTtwA5h4o9MztDDRQSBv169r6"
+			"address": "rh49CfzHYm424Rj9DEjip4zuUV2jLmtfcS"
 		}
 	}]
 }
